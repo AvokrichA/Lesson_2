@@ -10,4 +10,4 @@ for index, elem in enumerate(rating):
 if not answer:
     rating.append(user_rating)
 
-#print(rating)
+print(rating)
